@@ -1,0 +1,10 @@
+package country;
+
+/**
+ * Created by vlad on 04.06.16.
+ */
+public class Address {
+    public String country;
+    public String city;
+    public String street;
+}
